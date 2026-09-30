@@ -4,9 +4,6 @@
 - Name: Yershadi Nurassyl
 - Group: SE-2523
 - Topic: A (Drawing)
-- Repository URL: GITHUB_URL_HERE
-- Base commit (working I1/I2 version): e7b1074b829d3e49e10526177411ad3574df3fe5
-- Submitted commit (I3 extension): b546192142a2f6e4685af9a50af7f0602d618336
 
 ## Role map
 
